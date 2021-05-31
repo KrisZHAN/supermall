@@ -1,14 +1,12 @@
 <template>
-  <div class="hello"></div>
+  <div>购物车</div>
 </template>
 
 <script>
 export default {
-  name: "HelloWorld",
-  props: {
-    msg: String
+  data() {
+    return {};
   }
 };
 </script>
-
 <style scoped></style>
